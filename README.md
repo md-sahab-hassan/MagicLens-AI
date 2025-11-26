@@ -15,6 +15,7 @@ Users can register, log in, generate images using prompts, and manage credits (w
 ✔️ Backend secured with environment variables
 ✔️ MongoDB database connection
 
+
 🛠️ Tech Stack
 Area	Technology
 Frontend	React.js, Tailwind CSS, Axios
