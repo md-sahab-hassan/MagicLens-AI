@@ -17,13 +17,15 @@ Users can register, log in, generate images using prompts, and manage credits (w
 
 
 🛠️ Tech Stack
-Area	Technology
-Frontend	React.js, Tailwind CSS, Axios
-Backend	Node.js, Express.js
-Database	MongoDB + Mongoose
-Authentication	JWT + Bcrypt
-AI API	ClipDrop Text-to-Image
-Tools	Vite, Postman, Git, GitHub
+| Area           | Technology                    |
+| -------------- | ----------------------------- |
+| Frontend       | React.js, Tailwind CSS, Axios |
+| Backend        | Node.js, Express.js           |
+| Database       | MongoDB + Mongoose            |
+| Authentication | JWT + Bcrypt                  |
+| AI API         | ClipDrop Text-to-Image        |
+| Tools          | Vite, Postman, Git, GitHub    |
+
 
 
 MagicLens-AI/
